@@ -1236,7 +1236,7 @@ a:hover{
 
 
 #scrollToTop{
-  background: linear-gradient(110deg, #5C0CEC 0%, #1FCBFF 100%);
+  /* background: linear-gradient(110deg, #5C0CEC 0%, #1FCBFF 100%); */
           color: white;
           border: none;
           width: 50px;
@@ -1262,7 +1262,7 @@ a:hover{
 }
 #scrollToTop::before {
   content: "";
-  border: 2px solid #37A3FE;
+  border: 3px solid green;
   position: absolute;
   z-index: 0;
   left: 50%;

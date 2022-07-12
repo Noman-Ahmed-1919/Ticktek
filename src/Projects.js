@@ -148,8 +148,8 @@ const Projects = ()=>{
               <img src={tick} alt="Finished Projects" />
             </div>
             <div className="contentCard">
-              <h3>{project}</h3>
-              <p>Finished Projects</p>
+              <h3 style={{color:"green"}}>{project}</h3>
+              <p style={{color:"green"}}>Finished Projects</p>
             </div>
           </div>
           <div className="countCard counterSec">
@@ -184,9 +184,9 @@ const Projects = ()=>{
                <img src={follow } alt="Ongoing Projects" />
             </div>
             <div className="contentCard">
-              <h3>{developer }</h3>
+              <h3 style={{color:"green"}}>{developer }</h3>
               {/* <p>Years of Experience</p> */}
-               <p>Ongoing Projects</p>
+               <p style={{color:"green"}}>Ongoing Projects</p>
             </div>
           </div>
         </div>
