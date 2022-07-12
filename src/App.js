@@ -18,6 +18,7 @@ import Footer from './Footer';
 import Analysis from './Analysis';
 import Strategy from './Strategy';
 import Video from './Video';
+import Projects from './Projects';
 
 
 function App() {
@@ -62,6 +63,7 @@ if(spinner){
 
 <Analysis/>
 <Strategy/>
+<Projects/>
 <Digital/>
  <Socials/>
 

@@ -1295,7 +1295,7 @@ a:hover{
 }
 #scrollToTop::after {
   content: "";
-  border: 2px solid #37A3FE;
+  border: 3px solid green;
   position: absolute;
   z-index: 0;
   left: 50%;
@@ -1607,3 +1607,219 @@ height: 51px;
           margin-left: 300px;
   } 
 }
+
+
+/* counter css  */
+
+.projectCounter1 {
+  margin: 150px 0;
+}
+
+/* @media (min-width: 1200px){
+.containerp, .containerp-lg, .containerp-md, .containerp-sm, .containerp-xl {
+    max-width: 1140px;
+}
+}
+@media (min-width: 992px){
+.containerp, .containerp-lg, .containerp-md, .containerp-sm {
+    max-width: 960px;
+}
+}
+@media (min-width: 768px){
+.containerp, .containerp-md, .containerp-sm {
+    max-width: 720px;
+}
+}
+@media (min-width: 576px){
+.containerp, .containerp-sm {
+    max-width: 540px;
+}
+}  */
+ /* .containerp, .containerp-fluid, .containerp-lg, .containerp-md, .containerp-sm, .containerp-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+.projectCounter1 .shadowMain {
+  position: relative;
+}
+
+.projectCounter1 .shadowMain .shadow {
+  background: linear-gradient(to right,#fe4d23 0%,#ff28a7 100%);
+  position: absolute;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  top: -4px;
+  z-index: -1;
+  -webkit-filter: blur(12px);
+  filter: blur(12px);
+}
+.shadow {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+.projectCounter1 .counterMain {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 16px;
+  overflow: hidden;
+  background: linear-gradient(to right,#fe4d23 0%,#ff28a7 100%);
+  padding: 35px 8px;
+  border-radius: 20px;
+}
+
+.projectCounter1 .counterMain .countCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 0;
+  width: 25%;
+}
+.projectCounter1 .counterMain .imgDiv {
+  margin-right: 20px;
+}
+
+.projectCounter1 .counterMain .countCard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 0;
+  width: 25%;
+}
+.projectCounter1 .counterMain .imgDiv {
+  margin-right: 20px;
+}
+.projectCounter1 .counterMain .countCard h3 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 40px;
+  margin: 0;
+}
+
+.projectCounter1 .counterMain .countCard p {
+  color: #fff;
+  margin-bottom: 0;
+}
+.projectCounter1 .counterMain .imgDiv img {
+  max-width: 65px;
+}
+
+@media screen and (max-width:768px) and (min-width:576px) {
+  .projectCounter .counterMain .countCard {
+      width: 50%
+  }
+
+  .projectCounter .counterMain .countCard h3 {
+      font-size: 50px
+  }
+
+  .projectCounter1 .counterMain .countCard {
+      width: 50%
+  }
+
+  .teamSec .imgDiv {
+      max-height: 151.28px
+  }
+
+  .ourProject .projectCardMain {
+      width: 160px
+  }
+
+  .ourProject .projectCard img {
+      width: 110px
+  }
+
+  .d-none-sm-md {
+      display: none
+  }
+
+  .teamSec .content {
+      width: 100%
+  }
+
+  .getInTouchSec {
+      padding: 30px 40px
+  }
+}
+
+@media screen and (max-width:575px) and (min-width:200px) {
+  .projectCounter .counterMain .countCard {
+      width: 30%
+  }
+
+  .projectCounter .counterMain .countCard h3 {
+      font-size: 50px
+  }
+
+  .projectCounter1 .counterMain .countCard {
+      width: 50%
+  }
+
+  .teamSec .imgDiv {
+      max-height: 121.28px
+  }
+
+  .ourProject .projectCardMain {
+      width: 130px
+  }
+
+  .ourProject .projectCard img {
+      width: 100px
+  }
+
+  .d-none-sm-md {
+      display: none
+  }
+
+  .teamSec .content {
+      width: 100%
+  }
+
+  .getInTouchSec {
+      padding: 30px 40px
+  }
+}
+
+
+
+
+
+
+@media screen and (max-width:992px) and (min-width:768px) {
+
+  .ourProject .row1,
+  .ourProject .row3 {
+      width: 660px
+  }
+
+  .projectCounter .counterMain .countCard {
+      width: 50%
+  }
+
+  .projectCounter .counterMain .countCard h3 {
+      font-size: 50px
+  }
+
+  .projectCounter1 .counterMain .countCard {
+      width: 50%
+  }
+
+  .ourProject .projectCardMain {
+      width: 220px
+  }
+
+  .teamSec .teamElement {
+      width: 230px
+  }
+
+  .ourProject .row1,
+  .ourProject .row3 {
+      justify-content: center
+  }
+}
+
