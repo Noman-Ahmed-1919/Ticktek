@@ -11,7 +11,7 @@ const Strategy = () => {
         <section id="sta11">
         <div style={{textAlign:"center", marginTop:"100px"}}>
             <h3 style={{color:"orange"}}>Bringing Action To Brands</h3>
-            <h1 style={{color:"blue"}}>Choose What Matters To Your Business & <br></br> Your Customer</h1>
+            <h1 style={{color:"#fe4d23 "}}>Choose What Matters To Your Business & <br></br> Your Customer</h1>
 <p className="container" style={{color:"#fe4d23 ",}}>In these hard times it is not easy to built a stable and strong business according to our dreams that is why it is important to focus on such ideas and techniques that will help us to grow your business in this fast running digital world.</p>
         </div>
         
@@ -58,7 +58,7 @@ const Strategy = () => {
                                 <div className="elementor-element elementor-element-ceff40c elementor-widget elementor-widget-text-editor" data-id="ceff40c" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div className="elementor-widget-container">
                                     <div className="elementor-text-editor elementor-clearfix">
-                                      <div style={{color:"#fe4d23 ",}}>Social media strategy is not an option for a brand or business its a necessity with so many options across social networks on a globe scale.</div>
+                                      <div style={{color:"#fe4d23 ",}}>Social media strategy is an option for a brand or business on a globe scale.</div>
                                     </div>
                                   </div>
                                 </div>
@@ -92,9 +92,7 @@ const Strategy = () => {
                                     <div className="elementor-element elementor-element-40b0d1e elementor-widget elementor-widget-text-editor" data-id="40b0d1e" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div className="elementor-widget-container">
                                     <div className="elementor-text-editor elementor-clearfix">
-                                      <div style={{color:"#fe4d23 ",}}>content  management is about planning and focuses on tying content back to audience needs and business goals.
-Its about governing, controlling, and maintenance of content.
-Handling of content, from creation to archiving and updating.</div>
+                                      <div style={{color:"#fe4d23 ",}}>content  management is about planning and focuses on tying content and business goals.</div>
                                     </div>
                                   </div>
                                 </div>
@@ -130,7 +128,7 @@ Handling of content, from creation to archiving and updating.</div>
                                 <div className="elementor-element elementor-element-39a709b elementor-widget elementor-widget-text-editor" data-id="39a709b" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div className="elementor-widget-container">
                                     <div className="elementor-text-editor elementor-clearfix">
-                                      <div style={{color:"#fe4d23 ",}}>We are providing digital marketing services for your business which will help you to grow your business ticktek digitals is a professional platform & offering new techniques of marketing.    </div>
+                                      <div style={{color:"#fe4d23 ",}}>We are providing digital marketing services for your business.    </div>
                                     </div>
                                   </div>
                                 </div>
