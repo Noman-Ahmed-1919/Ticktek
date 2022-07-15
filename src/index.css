@@ -1243,7 +1243,7 @@ a:hover{
           height: 50px;
           border-radius: 50%;
           position: fixed;
-          right: 20px;
+          right: 35px;
           bottom: 20px;
           /* opacity: 0; */
           font-size: 20px;
@@ -1823,3 +1823,11 @@ height: 51px;
   }
 }
 
+
+@media screen and (max-width:500px) and (min-width:200px){
+#imagescheck{
+  display: none;
+}
+
+
+}

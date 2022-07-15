@@ -58,7 +58,7 @@ const Strategy = () => {
                                 <div className="elementor-element elementor-element-ceff40c elementor-widget elementor-widget-text-editor" data-id="ceff40c" data-element_type="widget" data-widget_type="text-editor.default">
                                   <div className="elementor-widget-container">
                                     <div className="elementor-text-editor elementor-clearfix">
-                                      <div style={{color:"#fe4d23 ",}}>Social media strategy is an option for a brand or business on a globe scale.</div>
+                                      <div style={{color:"#fe4d23 ",}}>SMS is an option for grow product & business on a globe scale.</div>
                                     </div>
                                   </div>
                                 </div>

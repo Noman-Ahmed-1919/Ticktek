@@ -22,7 +22,7 @@ const Solution = () => {
                             </div>
 
                             <div>
-                                <img style={{ marginLeft: "30px" }} src={check} />
+                                <img id="imagescheck" style={{ marginLeft: "28px" }} src={check} />
                             </div>
                         </div>
 
@@ -34,7 +34,7 @@ const Solution = () => {
                             </div>
 
                             <div>
-                                <img style={{ marginLeft: "30px" }} src={check} />
+                                <img id="imagescheck" style={{ marginLeft: "28px" }} src={check} />
                             </div>
                         </div>
 
@@ -48,7 +48,7 @@ const Solution = () => {
                             </div>
 
                             <div>
-                                <img style={{ marginLeft: "30px" }} src={check} />
+                                <img id="imagescheck" style={{ marginLeft: "28px" }} src={check} />
                             </div>
                         </div>
                     </div>
@@ -62,7 +62,7 @@ const Solution = () => {
                         <div className="check">
 
                         <div >
-                                <img style={{  marginLeft: "-30px",width:"90px" }} src={check} />
+                                <img id="imagescheck" style={{  marginLeft: "-30px",width:"90px" }} src={check} />
                             </div>
 
                             <div>
@@ -76,7 +76,7 @@ const Solution = () => {
                         <div className="check">
                          
                         <div >
-                                <img style={{ marginLeft: "-30px" ,width:"90px" }} src={check} />
+                                <img id="imagescheck" style={{ marginLeft: "-30px" ,width:"90px" }} src={check} />
                             </div>
                          
                          
@@ -91,7 +91,7 @@ const Solution = () => {
                         <div className="check">
                          
                         <div>
-                                <img style={{ marginLeft: "-30px" ,width:"90px"}} src={check} />
+                                <img id="imagescheck" style={{ marginLeft: "-30px" ,width:"90px"}} src={check} />
                             </div>
                          
                          
